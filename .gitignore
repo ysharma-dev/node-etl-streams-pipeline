@@ -1,3 +1,7 @@
+# Exclude load data
+output.json
+initialData.csv
+
 # Logs
 logs
 *.log

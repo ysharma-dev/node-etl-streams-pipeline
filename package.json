@@ -1,0 +1,28 @@
+{
+  "name": "etl-streams-pipeline",
+  "version": "1.0.0",
+  "description": "[ETL Pipeline] Data brokering with Node.js streams",
+  "main": "pipeline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ysharma-dev/node-etl-streams-pipeline.git"
+  },
+  "keywords": [
+    "node",
+    "streams",
+    "etl"
+  ],
+  "author": "Yugam Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ysharma-dev/node-etl-streams-pipeline/issues"
+  },
+  "homepage": "https://github.com/ysharma-dev/node-etl-streams-pipeline#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "csvtojson": "^2.0.10"
+  }
+}
